@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Acasă</string>
+    <string name="settings">Setări</string>
+    <string name="about">Despre</string>
+    <string name="send_log">Raportează jurnal</string>
+    <string name="about_source_code"><![CDATA[Vezi codul sursă la %1$s<br/>Alătură-te canalului nostru %2$s]]></string>
+    <string name="new_version_available">Versiune nouă: %s este disponibilă, clic pentru a actualiza</string>
+    <string name="settings_check_update">Verifică actualizarea</string>
+    <string name="settings_check_update_summary">Se verifică automat actualizările când deschizi aplicația</string>
+    <string name="save_log">Salvează Jurnale</string>
+</resources>

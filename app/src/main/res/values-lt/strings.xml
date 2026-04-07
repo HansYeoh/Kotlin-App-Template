@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Apie</string>
+    <string name="send_log">Siųsti žurnalą</string>
+    <string name="about_source_code">Peržiūrėkite šaltinio kodą %1$s<br />Prisijunkite prie mūsų %2$s kanalo</string>
+    <string name="new_version_available">Nauja versija: %s pasiekiama, spustelėkite norėdami atsinaujinti</string>
+    <string name="home">Namai</string>
+    <string name="settings">Parametrai</string>
+    <string name="save_log">Saglabāt Žurnālus</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Ana səhifə</string>
+    <string name="settings">Parametrlər</string>
+    <string name="about">Haqqında</string>
+    <string name="send_log">Log-u göndər</string>
+    <string name="about_source_code">Mənbə kodlarımıza baxın %1$s<br />
+Kanalımıza %2$s qoşulun</string>
+    <string name="new_version_available">Yeni versiya: %s əlçatandır, endirmək üçün toxunun</string>
+    <string name="save_log">Girişləri Saxla</string>
+    <string name="confirm">Təsdiq edin</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Template" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+
+    <style name="Theme.Template.WebUI" parent="Theme.Template">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+</resources>

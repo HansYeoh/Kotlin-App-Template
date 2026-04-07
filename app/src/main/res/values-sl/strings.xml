@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send_log">Prijavite dnevnik</string>
+    <string name="about_source_code">Glej odprto kodo na %1$s<br />Pridružite se našem %2$s kanalu</string>
+    <string name="home">Domov</string>
+    <string name="settings">Nastavitve</string>
+    <string name="about">O nas</string>
+    <string name="new_version_available">Na voljo je nova verzija: %s, kliknite za nadgradnjo</string>
+    <string name="save_log">Shrani Dnevnike</string>
+</resources>

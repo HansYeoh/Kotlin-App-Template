@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">Indstillinger</string>
+    <string name="about">Om</string>
+    <string name="send_log">Send logfiler</string>
+    <string name="about_source_code"><![CDATA[View source code at %1$s<br/>Join our %2$s channel]]></string>
+    <string name="new_version_available">Ny version %s er tilgængelig, klik for at opgradere!</string>
+    <string name="home">Hjem</string>
+    <string name="save_log">Gem logs</string>
+    <string name="confirm">Bekræft</string>
+    <string name="settings_check_update">Check for opdateringer</string>
+    <string name="settings_check_update_summary">Søg automatisk efter opdateringer, når appen åbnes.</string>
+    <string name="log_saved">Logs gemt</string>
+    <string name="processing">Behandler…</string>
+</resources>

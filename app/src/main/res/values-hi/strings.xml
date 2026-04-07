@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send_log">लॉग भेजे</string>
+    <string name="about">हमारे बारे में</string>
+    <string name="home">होम</string>
+    <string name="settings">सेटिंग</string>
+    <string name="about_source_code">%1$s पर स्रोत कोड देखें<br />
+हमारे %2$s चैनल से जुड़ें</string>
+    <string name="new_version_available">नया वर्जन: %s उपलब्ध है,अपग्रेड के लिए क्लिक करें</string>
+    <string name="save_log">लॉग सहेजें</string>
+</resources>

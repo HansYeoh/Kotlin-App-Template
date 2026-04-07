@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="send_log">שלח לוג</string>
+    <string name="about">אודות</string>
+    <string name="home">בית</string>
+    <string name="settings">הגדרות</string>
+    <string name="about_source_code">ראה את קוד המקור ב%1$s<br />הצטרף אלינו %2$s בערוץ</string>
+    <string name="new_version_available">גרסה חדשה עבור: %s זמינה, לחץ כדי לשדרג</string>
+    <string name="save_log">שמור יומנים</string>
+</resources>

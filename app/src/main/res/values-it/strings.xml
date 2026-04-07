@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Home</string>
+    <string name="settings">Impostazioni</string>
+    <string name="about">Informazioni</string>
+    <string name="send_log">Invia log</string>
+    <string name="about_source_code"><![CDATA[Visualizza il codice sorgente su %1$s<br/>Unisciti al nostro canale %2$s]]></string>
+    <string name="new_version_available">Nuova versione: %s disponibile, tocca per aggiornare</string>
+    <string name="settings_check_update">Controlla aggiornamenti</string>
+    <string name="settings_check_update_summary">Controlla automaticamente la disponibilità di aggiornamenti all\'apertura dell\'applicazione</string>
+    <string name="save_log">Salva Registri</string>
+</resources>
