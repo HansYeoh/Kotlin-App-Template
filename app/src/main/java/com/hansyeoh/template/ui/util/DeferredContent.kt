@@ -12,11 +12,11 @@ import androidx.navigation3.ui.LocalNavAnimatedContentScope
  * and an additional buffer frame has passed.
  *
  * Timeline:
- * - During animation: returns false â†’ page shows lightweight placeholder (smooth animation)
- * - Animation ends + 1 frame: returns true â†’ heavy content composes
+ * - During animation: returns false â†?page shows lightweight placeholder (smooth animation)
+ * - Animation ends + 1 frame: returns true â†?heavy content composes
  *   (stutter is invisible because the page is already static)
  *
- * The value is sticky â€” once true it never reverts to false,
+ * The value is sticky â€?once true it never reverts to false,
  * so content stays visible during exit transitions.
  */
 @Composable

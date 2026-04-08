@@ -5,9 +5,9 @@ import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.compose.dropUnlessResumed
 import com.hansyeoh.template.BuildConfig
 import com.hansyeoh.template.R
-import com.hansyeoh.template.ui.LocalUiMode
-import com.hansyeoh.template.ui.UiMode
-import com.hansyeoh.template.ui.navigation3.LocalNavigator
+import com.hansyeoh.shared.ui.LocalUiMode
+import com.hansyeoh.shared.ui.UiMode
+import com.hansyeoh.shared.ui.navigation3.LocalNavigator
 
 @Composable
 fun AboutScreen() {

@@ -23,8 +23,8 @@ import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.unit.dp
-import com.hansyeoh.template.ui.LocalUiMode
-import com.hansyeoh.template.ui.UiMode
+import com.hansyeoh.shared.ui.LocalUiMode
+import com.hansyeoh.shared.ui.UiMode
 import com.hansyeoh.template.ui.util.AppIconCache
 import top.yukonga.miuix.kmp.theme.MiuixTheme
 

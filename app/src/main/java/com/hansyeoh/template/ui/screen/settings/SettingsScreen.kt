@@ -6,9 +6,9 @@ import androidx.compose.ui.unit.Dp
 import androidx.lifecycle.compose.LifecycleResumeEffect
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.hansyeoh.template.ui.LocalUiMode
-import com.hansyeoh.template.ui.UiMode
-import com.hansyeoh.template.ui.navigation3.Navigator
+import com.hansyeoh.shared.ui.LocalUiMode
+import com.hansyeoh.shared.ui.UiMode
+import com.hansyeoh.shared.ui.navigation3.Navigator
 import com.hansyeoh.template.ui.navigation3.Route
 import com.hansyeoh.template.ui.viewmodel.SettingsViewModel
 

@@ -5,7 +5,7 @@ import androidx.core.content.edit
 import com.materialkolor.PaletteStyle
 import com.materialkolor.dynamiccolor.ColorSpec
 import com.hansyeoh.template.templateApp
-import com.hansyeoh.template.ui.UiMode
+import com.hansyeoh.shared.ui.UiMode
 
 class SettingsRepositoryImpl : SettingsRepository {
 

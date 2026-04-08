@@ -1,8 +1,8 @@
 package com.hansyeoh.template.ui.viewmodel
 
 import androidx.compose.runtime.Immutable
-import com.hansyeoh.template.ui.UiMode
-import com.hansyeoh.template.ui.theme.AppSettings
+import com.hansyeoh.shared.ui.UiMode
+import com.hansyeoh.shared.ui.theme.AppSettings
 
 @Immutable
 data class MainActivityUiState(

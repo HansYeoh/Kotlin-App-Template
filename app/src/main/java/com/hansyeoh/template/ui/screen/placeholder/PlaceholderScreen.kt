@@ -17,10 +17,10 @@ import androidx.compose.ui.unit.Dp
 import dev.chrisbanes.haze.HazeState
 import dev.chrisbanes.haze.HazeStyle
 import dev.chrisbanes.haze.HazeTint
-import com.hansyeoh.template.ui.LocalUiMode
-import com.hansyeoh.template.ui.UiMode
-import com.hansyeoh.template.ui.theme.LocalEnableBlur
-import com.hansyeoh.template.ui.util.defaultHazeEffect
+import com.hansyeoh.shared.ui.LocalUiMode
+import com.hansyeoh.shared.ui.UiMode
+import com.hansyeoh.shared.ui.theme.LocalEnableBlur
+import com.hansyeoh.shared.ui.util.defaultHazeEffect
 import top.yukonga.miuix.kmp.basic.MiuixScrollBehavior
 import top.yukonga.miuix.kmp.basic.Scaffold
 import top.yukonga.miuix.kmp.basic.TopAppBar
@@ -72,7 +72,7 @@ private fun PlaceholderMaterial(
                 .padding(paddingValues),
             contentAlignment = Alignment.Center
         ) {
-            // Empty content â€” ready for your implementation
+            // Empty content â€?ready for your implementation
         }
     }
 }
@@ -113,7 +113,7 @@ private fun PlaceholderMiuix(
             modifier = Modifier.fillMaxSize(),
             contentAlignment = Alignment.Center
         ) {
-            // Empty content â€” ready for your implementation
+            // Empty content â€?ready for your implementation
         }
     }
 }

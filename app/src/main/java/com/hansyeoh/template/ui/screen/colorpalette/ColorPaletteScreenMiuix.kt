@@ -67,9 +67,9 @@ import dev.chrisbanes.haze.HazeTint
 import dev.chrisbanes.haze.hazeSource
 import com.hansyeoh.template.R
 import com.hansyeoh.template.ui.component.miuix.ScaleDialog
-import com.hansyeoh.template.ui.theme.LocalEnableBlur
-import com.hansyeoh.template.ui.theme.keyColorOptions
-import com.hansyeoh.template.ui.util.defaultHazeEffect
+import com.hansyeoh.shared.ui.theme.LocalEnableBlur
+import com.hansyeoh.shared.ui.theme.keyColorOptions
+import com.hansyeoh.shared.ui.util.defaultHazeEffect
 import top.yukonga.miuix.kmp.basic.Card
 import top.yukonga.miuix.kmp.basic.Icon
 import top.yukonga.miuix.kmp.basic.IconButton

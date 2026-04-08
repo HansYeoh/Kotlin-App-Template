@@ -54,19 +54,21 @@ import com.hansyeoh.template.ui.component.bottombar.BottomBar
 import com.hansyeoh.template.ui.component.bottombar.MainPagerState
 import com.hansyeoh.template.ui.component.bottombar.SideRail
 import com.hansyeoh.template.ui.component.bottombar.rememberMainPagerState
-import com.hansyeoh.template.ui.navigation3.LocalNavigator
+import com.hansyeoh.shared.ui.navigation3.LocalNavigator
 import com.hansyeoh.template.ui.navigation3.Route
-import com.hansyeoh.template.ui.navigation3.rememberNavigator
+import com.hansyeoh.shared.ui.navigation3.rememberNavigator
 import com.hansyeoh.template.ui.screen.about.AboutScreen
 import com.hansyeoh.template.ui.screen.colorpalette.ColorPaletteScreen
 import com.hansyeoh.template.ui.screen.placeholder.PlaceholderPager
 import com.hansyeoh.template.ui.screen.settings.SettingPager
-import com.hansyeoh.template.ui.theme.TemplateTheme
-import com.hansyeoh.template.ui.theme.LocalColorMode
-import com.hansyeoh.template.ui.theme.LocalEnableBlur
-import com.hansyeoh.template.ui.theme.LocalEnableFloatingBottomBar
-import com.hansyeoh.template.ui.theme.LocalEnableFloatingBottomBarBlur
-import com.hansyeoh.template.ui.util.LocalSnackbarHost
+import com.hansyeoh.shared.ui.theme.TemplateTheme
+import com.hansyeoh.shared.ui.theme.LocalColorMode
+import com.hansyeoh.shared.ui.theme.LocalEnableBlur
+import com.hansyeoh.shared.ui.theme.LocalEnableFloatingBottomBar
+import com.hansyeoh.shared.ui.theme.LocalEnableFloatingBottomBarBlur
+import com.hansyeoh.shared.ui.LocalUiMode
+import com.hansyeoh.shared.ui.UiMode
+import com.hansyeoh.shared.ui.util.LocalSnackbarHost
 import com.hansyeoh.template.ui.util.rememberContentReady
 import com.hansyeoh.template.ui.viewmodel.MainActivityViewModel
 import top.yukonga.miuix.kmp.basic.Scaffold
@@ -75,7 +77,7 @@ import androidx.compose.runtime.derivedStateOf
 import androidx.navigationevent.NavigationEventInfo
 import androidx.navigationevent.compose.NavigationBackHandler
 import androidx.navigationevent.compose.rememberNavigationEventState
-import com.hansyeoh.template.ui.navigation3.Navigator
+import com.hansyeoh.shared.ui.navigation3.Navigator
 
 class MainActivity : ComponentActivity() {
 

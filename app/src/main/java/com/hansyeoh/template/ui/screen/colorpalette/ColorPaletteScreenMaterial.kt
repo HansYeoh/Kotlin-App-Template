@@ -92,12 +92,12 @@ import com.materialkolor.PaletteStyle
 import com.materialkolor.dynamiccolor.ColorSpec
 import com.materialkolor.rememberDynamicColorScheme
 import com.hansyeoh.template.R
-import com.hansyeoh.template.ui.component.material.SegmentedColumn
-import com.hansyeoh.template.ui.component.material.SegmentedDropdownItem
-import com.hansyeoh.template.ui.component.material.SegmentedSwitchItem
-import com.hansyeoh.template.ui.component.material.TonalCard
-import com.hansyeoh.template.ui.theme.ColorMode
-import com.hansyeoh.template.ui.theme.keyColorOptions
+import com.hansyeoh.shared.ui.component.material.SegmentedColumn
+import com.hansyeoh.shared.ui.component.material.SegmentedDropdownItem
+import com.hansyeoh.shared.ui.component.material.SegmentedSwitchItem
+import com.hansyeoh.shared.ui.component.material.TonalCard
+import com.hansyeoh.shared.ui.theme.ColorMode
+import com.hansyeoh.shared.ui.theme.keyColorOptions
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalMaterial3ExpressiveApi::class)
 @Composable

@@ -39,13 +39,13 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import com.hansyeoh.template.R
-import com.hansyeoh.template.ui.UiMode
-import com.hansyeoh.template.ui.component.material.SegmentedColumn
-import com.hansyeoh.template.ui.component.material.SegmentedDropdownItem
-import com.hansyeoh.template.ui.component.material.SegmentedListItem
-import com.hansyeoh.template.ui.component.material.SegmentedSwitchItem
+import com.hansyeoh.shared.ui.UiMode
+import com.hansyeoh.shared.ui.component.material.SegmentedColumn
+import com.hansyeoh.shared.ui.component.material.SegmentedDropdownItem
+import com.hansyeoh.shared.ui.component.material.SegmentedListItem
+import com.hansyeoh.shared.ui.component.material.SegmentedSwitchItem
 import com.hansyeoh.template.ui.component.material.SendLogBottomSheet
-import com.hansyeoh.template.ui.util.LocalSnackbarHost
+import com.hansyeoh.shared.ui.util.LocalSnackbarHost
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

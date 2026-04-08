@@ -4,7 +4,7 @@ import androidx.compose.runtime.Immutable
 import com.materialkolor.PaletteStyle
 import com.materialkolor.dynamiccolor.ColorSpec
 import com.hansyeoh.template.ui.screen.settings.SettingsUiState
-import com.hansyeoh.template.ui.theme.ColorMode
+import com.hansyeoh.shared.ui.theme.ColorMode
 
 @Immutable
 data class ColorPaletteUiState(

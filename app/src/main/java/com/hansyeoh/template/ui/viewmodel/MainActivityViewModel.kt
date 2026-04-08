@@ -9,8 +9,8 @@ import kotlinx.coroutines.flow.asStateFlow
 import com.hansyeoh.template.data.repository.SettingsRepository
 import com.hansyeoh.template.data.repository.SettingsRepositoryImpl
 import com.hansyeoh.template.templateApp
-import com.hansyeoh.template.ui.UiMode
-import com.hansyeoh.template.ui.theme.ThemeController
+import com.hansyeoh.shared.ui.UiMode
+import com.hansyeoh.shared.ui.theme.ThemeController
 
 class MainActivityViewModel : ViewModel() {
 

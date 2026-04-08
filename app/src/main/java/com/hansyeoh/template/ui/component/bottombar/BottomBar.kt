@@ -19,8 +19,8 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.job
 import kotlinx.coroutines.launch
-import com.hansyeoh.template.ui.LocalUiMode
-import com.hansyeoh.template.ui.UiMode
+import com.hansyeoh.shared.ui.LocalUiMode
+import com.hansyeoh.shared.ui.UiMode
 import kotlin.math.abs
 
 class MainPagerState(

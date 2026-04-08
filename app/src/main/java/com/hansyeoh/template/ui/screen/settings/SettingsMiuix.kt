@@ -33,11 +33,11 @@ import dev.chrisbanes.haze.HazeStyle
 import dev.chrisbanes.haze.HazeTint
 import dev.chrisbanes.haze.hazeSource
 import com.hansyeoh.template.R
-import com.hansyeoh.template.ui.UiMode
+import com.hansyeoh.shared.ui.UiMode
 import com.hansyeoh.template.ui.component.dialog.rememberLoadingDialog
 import com.hansyeoh.template.ui.component.miuix.SendLogDialog
-import com.hansyeoh.template.ui.theme.LocalEnableBlur
-import com.hansyeoh.template.ui.util.defaultHazeEffect
+import com.hansyeoh.shared.ui.theme.LocalEnableBlur
+import com.hansyeoh.shared.ui.util.defaultHazeEffect
 import top.yukonga.miuix.kmp.basic.Card
 import top.yukonga.miuix.kmp.basic.Icon
 import top.yukonga.miuix.kmp.basic.MiuixScrollBehavior

@@ -43,7 +43,7 @@ import kotlinx.coroutines.withContext
 import com.hansyeoh.template.BuildConfig
 import com.hansyeoh.template.R
 import com.hansyeoh.template.ui.component.dialog.rememberLoadingDialog
-import com.hansyeoh.template.ui.util.LocalSnackbarHost
+import com.hansyeoh.shared.ui.util.LocalSnackbarHost
 import com.hansyeoh.template.ui.util.getBugreportFile
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter

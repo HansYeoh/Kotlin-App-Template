@@ -10,10 +10,10 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import com.materialkolor.PaletteStyle
 import com.materialkolor.dynamiccolor.ColorSpec
 import com.hansyeoh.template.TemplateApplication
-import com.hansyeoh.template.ui.LocalUiMode
-import com.hansyeoh.template.ui.UiMode
-import com.hansyeoh.template.ui.navigation3.LocalNavigator
-import com.hansyeoh.template.ui.theme.ColorMode
+import com.hansyeoh.shared.ui.LocalUiMode
+import com.hansyeoh.shared.ui.UiMode
+import com.hansyeoh.shared.ui.navigation3.LocalNavigator
+import com.hansyeoh.shared.ui.theme.ColorMode
 import com.hansyeoh.template.ui.viewmodel.SettingsViewModel
 
 @Composable

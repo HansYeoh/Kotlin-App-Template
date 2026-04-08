@@ -11,8 +11,8 @@ import androidx.compose.ui.unit.dp
 import dev.chrisbanes.haze.HazeState
 import dev.chrisbanes.haze.HazeStyle
 import com.hansyeoh.template.ui.LocalMainPagerState
-import com.hansyeoh.template.ui.theme.LocalEnableBlur
-import com.hansyeoh.template.ui.util.defaultHazeEffect
+import com.hansyeoh.shared.ui.theme.LocalEnableBlur
+import com.hansyeoh.shared.ui.util.defaultHazeEffect
 import top.yukonga.miuix.kmp.basic.NavigationRail
 import top.yukonga.miuix.kmp.basic.NavigationRailItem
 import top.yukonga.miuix.kmp.theme.MiuixTheme

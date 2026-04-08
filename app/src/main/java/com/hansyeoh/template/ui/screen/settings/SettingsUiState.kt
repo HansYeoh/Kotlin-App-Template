@@ -3,7 +3,7 @@ package com.hansyeoh.template.ui.screen.settings
 import androidx.compose.runtime.Immutable
 import com.materialkolor.PaletteStyle
 import com.materialkolor.dynamiccolor.ColorSpec
-import com.hansyeoh.template.ui.UiMode
+import com.hansyeoh.shared.ui.UiMode
 
 @Immutable
 data class SettingsUiState(

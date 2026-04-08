@@ -92,42 +92,21 @@ base {
 }
 
 dependencies {
-    implementation(libs.androidx.activity.compose)
+    implementation(project(":shared"))
 
-    implementation(platform(libs.androidx.compose.bom))
-    implementation(libs.androidx.compose.material.icons.extended)
-    implementation(libs.androidx.compose.material3)
-    implementation(libs.androidx.compose.ui)
-    implementation(libs.androidx.compose.ui.tooling.preview)
-
-    debugImplementation(libs.androidx.compose.ui.test.manifest)
-    debugImplementation(libs.androidx.compose.ui.tooling)
-
-    implementation(libs.androidx.lifecycle.runtime.compose)
-    implementation(libs.androidx.lifecycle.runtime.ktx)
-    implementation(libs.androidx.lifecycle.viewmodel.compose)
     implementation(libs.androidx.lifecycle.viewmodel.navigation3)
 
-    implementation(libs.androidx.navigation3.runtime)
     implementation(libs.androidx.navigationevent.compose)
+    implementation(libs.miuix.navigation3.ui)
 
     implementation(libs.kotlinx.coroutines.core)
 
     implementation(libs.dev.rikka.rikkax.parcelablelist)
 
-    implementation(libs.miuix)
-    implementation(libs.miuix.icons)
-    implementation(libs.miuix.navigation3.ui)
-
     implementation(platform(libs.okhttp.bom))
     implementation(libs.okhttp)
-
-    implementation(libs.backdrop)
-    implementation(libs.capsule)
-    implementation(libs.haze)
-
-    implementation(libs.material.kolor)
 
     implementation(libs.androidx.webkit)
     implementation(libs.appiconloader)
 }
+

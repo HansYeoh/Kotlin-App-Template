@@ -8,7 +8,7 @@ import kotlinx.coroutines.flow.update
 import com.hansyeoh.template.data.repository.SettingsRepository
 import com.hansyeoh.template.data.repository.SettingsRepositoryImpl
 import com.hansyeoh.template.ui.screen.settings.SettingsUiState
-import com.hansyeoh.template.ui.theme.ColorMode
+import com.hansyeoh.shared.ui.theme.ColorMode
 
 class SettingsViewModel(
     private val repo: SettingsRepository = SettingsRepositoryImpl()
